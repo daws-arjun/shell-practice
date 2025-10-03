@@ -7,11 +7,11 @@ PERSON2=Mahesh
 CITY1=Bangalore
 CITY2=Hyderabad
 
-echo "$PERSON1 :: Hi $PERSON2, how are you?"
-echo "$PERSON2 :: Hello $PERSON1, I am fine, how are you?"
-echo "$PERSON1 :: I am fine, What are you learning recently"
-echo "$PERSON2 :: I am learning shell scripting $PERSON1"
-echo "$PERSON1 :: Oh! nice"
+# echo "$PERSON1 :: Hi $PERSON2, how are you?"
+# echo "$PERSON2 :: Hello $PERSON1, I am fine, how are you?"
+# echo "$PERSON1 :: I am fine, What are you learning recently"
+# echo "$PERSON2 :: I am learning shell scripting $PERSON1"
+# echo "$PERSON1 :: Oh! nice"
 
 echo "$PERSON1 :: Hello $PERSON2 where are you going today"
 echo "$PERSON2 :: Hi $PERSON1, today I am going to $CITY1. When will you come to $CITY1?"
